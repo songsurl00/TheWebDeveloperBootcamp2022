@@ -5,7 +5,7 @@
 <ul>
     <li>섹션 1: 코스 소개</li>
     <li>섹션 2: 웹 개발이란?</li>
-    <li><a href="">섹션 3: HTML: 기초</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/03_HTML_Intro">섹션 3: HTML: 기초</a></li>
     <li>섹션 4: HTML: 시맨틱(Semantics)</li>
     <li>섹션 5: HTML: 폼과 테이블</li>
     <li>섹션 6: CSS: 기초</li>
