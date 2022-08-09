@@ -2,7 +2,7 @@
 
 <a href="https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/">The Web Developer 부트캠프 2022</a> 을 통한 web 공부!!
 
-<a href="https://pale-wildebeest-44b.notion.site/The-Web-Developer-2022-62c00abc2d634931bb1ad0fd837f9422"><img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black"/></a>
+<a href="https://pale-wildebeest-44b.notion.site/The-Web-Developer-2022-62c00abc2d634931bb1ad0fd837f9422" target="_blank"><img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=Notion&logoColor=black"/></a>
 
 ## 목차
 <ul>
