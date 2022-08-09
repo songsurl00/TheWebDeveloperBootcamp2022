@@ -1,7 +1,9 @@
 # TheWebDeveloperBootcamp2022
 
-<a href="https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/">The Web Developer 부트캠프 2022</a>
+<a href="https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/">The Web Developer 부트캠프 2022</a> 을 통한 web 공부!!
+<a href="https://www.notion.so/The-Web-Developer-2022-62c00abc2d634931bb1ad0fd837f9422">
 
+## 목차
 <ul>
     <li>섹션 1: 코스 소개</li>
     <li>섹션 2: 웹 개발이란?</li>
