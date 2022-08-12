@@ -8,12 +8,12 @@
 <ul>
     <li>섹션 1: 코스 소개</li>
     <li>섹션 2: 웹 개발이란?</li>
-    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/03_HTML_%EA%B8%B0%EC%B4%88">섹션 3: HTML: 기초</a></li>
-    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/04_HTML_%EC%8B%9C%EB%A7%A8%ED%8B%B1(Semantics)">섹션 4: HTML: 시맨틱(Semantics)</li>
-    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/05_HTML_%ED%8F%BC%EA%B3%BC%20%ED%85%8C%EC%9D%B4%EB%B8%94">섹션 5: HTML: 폼과 테이블</li>
-    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/06_CSS_%EA%B8%B0%EC%B4%88">섹션 6: CSS: 기초</li>
-    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/07_CSS_%EC%84%A0%ED%83%9D%EC%9E%90%EC%9D%98%20%EC%84%B8%EA%B3%84">섹션 7: CSS 선택자의 세계</li>
-    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/08_CSS_%EB%B0%95%EC%8A%A4%20%EB%AA%A8%EB%8D%B8">섹션 8: CSS 박스 모델</li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/03_HTML_Intro">섹션 3: HTML: 기초</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/04_HTML_Semantics">섹션 4: HTML: 시맨틱(Semantics)</li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/05_HTML_Form & Table">섹션 5: HTML: 폼과 테이블</li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/06_CSS_Intro">섹션 6: CSS: 기초</li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/07_CSS_Selectors">섹션 7: CSS 선택자의 세계</li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/08_CSS_BoxModel & Units>섹션 8: CSS 박스 모델</li>
     <li><a href="">섹션 9: 유용한 CSS 속성들</li>
     <li><a href="">섹션 10: 반응형 CSS 및 Flexbox</li>
     <li><a href="">섹션 11: 가격표 만들기</li>
