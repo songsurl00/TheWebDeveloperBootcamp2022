@@ -14,7 +14,7 @@
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/06_CSS_Intro">섹션 6: CSS: 기초</li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/07_CSS_Selectors">섹션 7: CSS 선택자의 세계</li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/08_CSS_BoxModel & Units">섹션 8: CSS 박스 모델</li>
-    <li><a href="">섹션 9: 유용한 CSS 속성들</li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/09_CSS_Other Properties">섹션 9: 유용한 CSS 속성들</li>
     <li><a href="">섹션 10: 반응형 CSS 및 Flexbox</li>
     <li><a href="">섹션 11: 가격표 만들기</li>
     <li><a href="">섹션 12: CSS 프레임워크: 부트스트랩(Bootstrap)</li>
