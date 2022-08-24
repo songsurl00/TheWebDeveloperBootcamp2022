@@ -17,7 +17,7 @@
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/09_CSS_Other Properties">섹션 9: 유용한 CSS 속성들</li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/10_CSS_Flexbox%20%26%20Responsive">섹션 10: 반응형 CSS 및 Flexbox</li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/Project/PriceTable">섹션 11: 가격표 만들기</li>
-    <li><a href="">섹션 12: CSS 프레임워크: 부트스트랩(Bootstrap)</li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/12_CSS_Bootstrap">섹션 12: CSS 프레임워크: 부트스트랩(Bootstrap)</li>
     <li><a href="">섹션 13: (선택)사탕 박물관 프로젝트</li>
     <li><a href="">섹션 14: JavaScript 기초!</li>
     <li><a href="">섹션 15: JavaScript 문자열</li>
