@@ -19,8 +19,8 @@
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/Project/PriceTable">섹션 11: 가격표 만들기 프로젝트</li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/12_CSS_Bootstrap">섹션 12: CSS 프레임워크: 부트스트랩(Bootstrap)</li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/Project/Museum_Of_Candy">섹션 13: (선택)사탕 박물관 프로젝트</li>
-    <li><a href="">섹션 14: JavaScript 기초!</li>
-    <li><a href="">섹션 15: JavaScript 문자열</li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/14_JS_Basics">섹션 14: JavaScript 기초!</li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/14_JS_String">섹션 15: JavaScript 문자열</li>
     <li><a href="">섹션 16: JavaScript 판단 내리기</li>
     <li><a href="">섹션 17: JavaScript 배열</li>
     <li><a href="">섹션 18: JavaScript 객체 리터럴(Literals)</li>
