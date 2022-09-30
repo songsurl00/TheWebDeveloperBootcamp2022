@@ -23,7 +23,7 @@
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/17_JS_Arrays">섹션 17: JavaScript 배열</li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/18_JS_Objects">섹션 18: JavaScript 객체 리터럴(Literals)</li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/19_JS_Loops">섹션 19: 로프의 구조</li>
-    <li><a href="">섹션 20: 함수란? (NEW)</li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/20_JS_Functions_Intro">섹션 20: 함수란? (NEW)</li>
     <li><a href="">섹션 21: 함수 레벨 업</li>
     <li><a href="">섹션 22: 콜백과 배열</li>
     <li><a href="">섹션 23: JavaScript의 최신 기능들</li>
