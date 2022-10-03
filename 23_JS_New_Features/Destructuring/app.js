@@ -35,11 +35,11 @@ const user2 = {
 // const firstName = user.firstName;
 // const lastName = user.lastName;
 // const email = user.email;
-const { email, firstName, lastName, city, bio } = user;
+// const { email, firstName, lastName, city, bio } = user;
 
 // const { born: birthYear, died: deathYear = 'N/A' } = user;
 
-// const { city, state, died = 'N/A' } = user2;
+// const { city, state, firstName: name, died = 'N/A' } = user2;
 
 // ===================
 // PARAM DESTRUCTURING
@@ -109,7 +109,7 @@ const movies = [
 
 
 // movies.filter((movie) => movie.score >= 90)
-// movies.filter(({ score }) => score >= 90)
+movies.filter(({ score }) => score >= 90)
 
 
 // movies.map(movie => {
