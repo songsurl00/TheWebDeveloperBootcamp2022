@@ -25,7 +25,7 @@
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/19_JS_Loops">섹션 19: 로프의 구조</li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/20_JS_Functions_Intro">섹션 20: 함수란? (NEW)</li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/21_JS_More_Functions">섹션 21: 함수 레벨 업</li>
-    <li><a href="">섹션 22: 콜백과 배열</li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/22_JS_Callback_Methods">섹션 22: 콜백과 배열</li>
     <li><a href="">섹션 23: JavaScript의 최신 기능들</li>
     <li><a href="">섹션 24: DOM이란?</li>
     <li><a href="">섹션 25: 잃어버린 퍼즐 한 조각: DOM 이벤트</li>
