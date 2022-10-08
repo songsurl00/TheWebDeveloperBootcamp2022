@@ -28,7 +28,7 @@
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/22_JS_Callback_Methods">섹션 22: 콜백과 배열</li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/23_JS_New_Features">섹션 23: JavaScript의 최신 기능들</li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/24_DOM_Intro">섹션 24: DOM이란?</li>
-    <li><a href="">섹션 25: 잃어버린 퍼즐 한 조각: DOM 이벤트</li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/25_DOM_Events">섹션 25: 잃어버린 퍼즐 한 조각: DOM 이벤트</li>
     <li><a href="">섹션 26: 점수 관리자 제작하기</a></li>
     <li><a href="">섹션 27: 비동기식 JavaScript</a></li>
     <li><a href="">섹션 28: AJAX와 API</a></li>
