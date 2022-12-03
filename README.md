@@ -39,8 +39,8 @@
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/33_Express_Intro/FirstApp">섹션 33: Express로 서버 제작하기</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/34_Express_Templating">섹션 34: 템플레이팅으로 동적 HTML 구성하기</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/35_Express_RESTful%20Routes">섹션 35: RESTful라우트 정의하기</a></li>
-    <li><a href="">섹션 36: 우리의 첫 번째 데이터베이스: MongoDB</a></li>
-    <li><a href="">섹션 37: Mongoose로 MongoDB에 접속하기</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/36_MongoDB_Intro">섹션 36: 우리의 첫 번째 데이터베이스: MongoDB</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/37_Mongoose_Basics">섹션 37: Mongoose로 MongoDB에 접속하기</a></li>
     <li><a href="">섹션 38: 하나로 묶기: Express와 Mongoose</a></li>
     <li><a href="">섹션 39: YelpCamp: 캠프인들의 CRUD</a></li>
     <li><a href="">섹션 40: 미들웨어: Express의 키(Key)</a></li>
