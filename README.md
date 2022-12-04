@@ -3,6 +3,7 @@
 <a href="https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/">The Web Developer 부트캠프 2022</a> 를 통한 web 공부!!
 
 ## 목차
+
 <ul>
     <li>섹션 1: 코스 소개</li>
     <li>섹션 2: 웹 개발이란?</li>
@@ -42,7 +43,7 @@
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/36_MongoDB_Intro">섹션 36: 우리의 첫 번째 데이터베이스: MongoDB</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/37_Mongoose_Basics">섹션 37: Mongoose로 MongoDB에 접속하기</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/38_Mongoose_Express">섹션 38: 하나로 묶기: Express와 Mongoose</a></li>
-    <li><a href="">섹션 39: YelpCamp: 캠프인들의 CRUD</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/YelpCamp">섹션 39: YelpCamp: 캠프인들의 CRUD</a></li>
     <li><a href="">섹션 40: 미들웨어: Express의 키(Key)</a></li>
     <li><a href="">섹션 41: YelpCamp: 기본 스타일 추가하기</a></li>
     <li><a href="">섹션 42: Express 앱의 오류 처리하기</a></li>
