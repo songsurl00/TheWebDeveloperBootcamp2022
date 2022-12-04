@@ -44,7 +44,7 @@
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/37_Mongoose_Basics">섹션 37: Mongoose로 MongoDB에 접속하기</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/38_Mongoose_Express">섹션 38: 하나로 묶기: Express와 Mongoose</a></li>
     <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/YelpCamp">섹션 39: YelpCamp: 캠프인들의 CRUD</a></li>
-    <li><a href="">섹션 40: 미들웨어: Express의 키(Key)</a></li>
+    <li><a href="https://github.com/songsurl00/TheWebDeveloperBootcamp2022/tree/main/40_Middleware_Intro">섹션 40: 미들웨어: Express의 키(Key)</a></li>
     <li><a href="">섹션 41: YelpCamp: 기본 스타일 추가하기</a></li>
     <li><a href="">섹션 42: Express 앱의 오류 처리하기</a></li>
     <li><a href="">섹션 43: YelpCamp: 오류 및 데이터 검증하기</a></li>
